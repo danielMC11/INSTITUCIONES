@@ -18,8 +18,8 @@
                 <li><a href="/proyecto_crud/view/rectoria/index.php">Directivos</a></li>
                 <li><a href="/proyecto_crud/view/institucionesMunicipio/index_inst_mun.php">Instituciones</a></li>
                 <li><a href="/proyecto_crud/view/institucionesMunicipio/stats_menu.php">Estadisticas</a></li>
-                <li><a href="/proyecto_crud/view/historico/logs.php">Trigger Directivos</a></li>
-                <li><a href="/proyecto_crud/view/historico/logs_inst.php">Trigger Instituciones</a></li>
+                <li><a href="/proyecto_crud/view/historico/logs.php">Historico Directivos</a></li>
+                <li><a href="/proyecto_crud/view/historico/logs_inst.php">Historico Instituciones</a></li>
             </ul>
         </nav>
     </header>
